@@ -1,0 +1,16 @@
+{
+  "name": "sales-marker-gen-ts",
+  "version": "1.0.0",
+  "description": "Sales Marker Gen Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grpc-tools": "^1.12.4",
+    "ts-protoc-gen": "^0.15.0"
+  }
+}
