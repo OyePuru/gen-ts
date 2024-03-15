@@ -1,7 +1,7 @@
 {
-  "name": "grpc-proto",
+  "name": "sales-marker-gen-ts",
   "version": "1.0.0",
-  "description": "Sales Marker Proto",
+  "description": "Sales Marker Gen Typescript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
